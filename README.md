@@ -1,6 +1,6 @@
-Front End Ops: dotfiles
-========
-Front End Ops repos:
+# dotfiles
+
+### All Front End Ops repos:
 - [alfred](https://github.com/lrobeson/alfred)
 - [dotfiles](https://github.com/lrobeson/dotfiles)
 - [scripts](https://github.com/lrobeson/scripts)
