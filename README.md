@@ -1,13 +1,13 @@
-Front End Ops: dot files
+Front End Ops: dotfiles
 ========
-Companion repo: [script files](https://github.com/lrobeson/local-dev-scripts)
+Companion repo: [scripts](https://github.com/lrobeson/scripts)
 
-__Symlinked and handled by [Mackup](https://github.com/lra/mackup):__
+__Currently includes:__
+- .git-completion-aliases.bash
+- .git-completion.bash
+
+__Symlinks, handled by [Mackup](https://github.com/lra/mackup):__
 - .bash_profile
 - .bashrc
 - .gitconfig
 - .gitignore_global
-
-__Not handled by Mackup:__
-- .git-completion-aliases.bash
-- .git-completion.bash
