@@ -1,6 +1,9 @@
 Front End Ops: dotfiles
 ========
-Companion repo: [scripts](https://github.com/lrobeson/scripts)
+Front End Ops repos:
+- [alfred](https://github.com/lrobeson/alfred)
+- [dotfiles](https://github.com/lrobeson/dotfiles)
+- [scripts](https://github.com/lrobeson/scripts)
 
 __Currently includes:__
 - .git-completion-aliases.bash
