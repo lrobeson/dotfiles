@@ -93,7 +93,7 @@ alias dfra='drush -y features-revert-all'
 alias dfu='drush -y features-update'
 alias dst="drush status" # Birds-eye view of current Drupal installation, if any 
 
-alias create-admin-acct="drush user-create ldr --mail=ldavisrobeson@forumone.com && drush user-add-role administrator --name=ldr && drush user-add-role developer --name=ldr && drush uli --name=ldr" # Create admin acct (helpful after syncing with a db you don't have access to)
+alias create-admin-acct="drush user-create ldr --mail=ldavisrobeson@forumone.com && drush user-add-role administrator --name=ldr && drush uli --name=ldr && drush user-add-role developer --name=ldr" # Create admin acct (helpful after syncing with a db you don't have access to)
 
 #########################
 # The following is slightly modified from:
